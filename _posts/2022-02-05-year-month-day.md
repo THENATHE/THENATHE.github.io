@@ -1,7 +1,7 @@
 ---
 layout: post
-title: Example content
+title: Beginning of Time
 ---
-# Beginning of Time
 -----
+### Year / Month / Day
 *Theres literally nothing here...*
