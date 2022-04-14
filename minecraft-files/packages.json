@@ -1,5 +1,5 @@
 {
-    "minimumVersion": 1,
+    "minimumVersion": 3,
     "packages": [
         {
             "name": "Sedrion-Fabric",
