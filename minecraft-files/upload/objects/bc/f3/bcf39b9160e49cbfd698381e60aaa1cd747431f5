@@ -1,0 +1,8 @@
+{
+	"arctic_zombie_spawn_weight": 25,
+	"infernal_zombie_spawn_weight": 15,
+	"miner_zombie_spawn_weight": 5,
+	"beserk_zombie_spawn_weight": 5,
+	"sludge_zombie_spawn_weight": 30,
+	"crystal_zombie_spawn_weight": 25
+}

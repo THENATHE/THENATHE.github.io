@@ -1,0 +1,20 @@
+[spawn]
+spawn_duneraptors = true
+spawn_coyotes = true
+spawn_tumbleweeds = false
+[stats]
+duneraptor_health = 25.0
+duneraptor_speed = 0.18
+tumbleweed_health = 3.0
+tumbleweed_speed = 0.21
+coyote_health = 16.0
+coyote_speed = 0.37
+coyote_attack_damage = 2.5
+[generation]
+generate_oasis = true
+generate_ore_rock = true
+generate_tall_ore_rock = true
+generate_badlands_temple = true
+generate_fruitful_desert_biome = true
+[client]
+stop_experimental_advice = true
