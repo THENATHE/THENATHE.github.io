@@ -4,14 +4,14 @@
         {
             "name": "Sedrion-Fabric",
             "title": "Sedrion Fabric Mod Pack",
-            "version": "1.19",
+            "version": "1.19-2",
             "location": "upload/sedrion-fabric.json",
             "priority": 1
         },
 		{
             "name": "Vanilla-Optimized",
             "title": "Sedrion Optimized Vanilla",
-            "version": "1.18.2",
+            "version": "1.19-2",
             "location": "upload/vanilla-optimized.json",
             "priority": 2
         }
